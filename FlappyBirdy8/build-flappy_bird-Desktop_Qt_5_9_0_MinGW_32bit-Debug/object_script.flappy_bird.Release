@@ -1,0 +1,12 @@
+INPUT(
+./release\qrc_res.o
+./release\main.o
+./release\mainwindow.o
+./release\globalutils.o
+./release\pipechannel.o
+./release\bestscore.o
+./release\cover.o
+./release\moc_mainwindow.o
+./release\moc_pipechannel.o
+./release\moc_cover.o
+);

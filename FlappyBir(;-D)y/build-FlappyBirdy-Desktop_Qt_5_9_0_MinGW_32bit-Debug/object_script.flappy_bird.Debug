@@ -1,0 +1,12 @@
+INPUT(
+./debug\qrc_res.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\globalutils.o
+./debug\pipechannel.o
+./debug\bestscore.o
+./debug\cover.o
+./debug\moc_mainwindow.o
+./debug\moc_pipechannel.o
+./debug\moc_cover.o
+);
